@@ -23,7 +23,7 @@ updates:
   # NuGet
   -
     package-ecosystem: "nuget"
-    directory: /
+    directory: "/src/"
     labels:
       - "dependabot"
       - "dependencies"
